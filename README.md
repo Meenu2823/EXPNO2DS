@@ -23,11 +23,11 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/abbf9424-2ffa-4fb9-a420-e6041bac4678)
-        ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/8859c594-b38f-413d-9ebb-925b0681bc55)
-        ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/5142b229-51ea-4130-819c-f8c66c531272)
-        ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/f76f182f-6f43-4656-8521-257b5f776213)
-        ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/55338a95-44f9-4c3b-aece-0661471062e0)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/abbf9424-2ffa-4fb9-a420-e6041bac4678)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/8859c594-b38f-413d-9ebb-925b0681bc55)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/5142b229-51ea-4130-819c-f8c66c531272)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/f76f182f-6f43-4656-8521-257b5f776213)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/55338a95-44f9-4c3b-aece-0661471062e0)
 
 
 
