@@ -24,7 +24,6 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 Developed by: Meenu.S
-
 Reg.No: 212223230124
 ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/abbf9424-2ffa-4fb9-a420-e6041bac4678)
 ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/8859c594-b38f-413d-9ebb-925b0681bc55)
