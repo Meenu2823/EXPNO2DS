@@ -37,10 +37,10 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/58bc809b-e7cf-44f8-86dc-c815cfc85c1a)
 ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/6000a21b-0c7e-4790-8167-722e740d6524)
 ![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/f88cf6a2-a002-4191-84f7-15fa437654ea)
-
-
-
-
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/95a9791f-501c-4326-870b-8bc156f4f27c)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/5f1daa2c-c226-4bb0-b128-108a589754b7)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/6f5217fc-e61b-47be-a1c3-af883b62d3da)
+![image](https://github.com/Meenu2823/EXPNO2DS/assets/139416219/a0824831-b580-4ad7-858e-6c1bbc659104)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus the Exploratory Data Analysis has been performed successfully on the given data set.
